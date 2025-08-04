@@ -5,7 +5,6 @@ import ProductCard from '../../components/ProductCard';
 
 type Product = {
   id: string | number;
-  // add other product properties as needed
   [key: string]: any;
 };
 
